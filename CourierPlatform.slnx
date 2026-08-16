@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/CourierPlatform.Api/CourierPlatform.Api.csproj" />
+  </Folder>
+  <Folder Name="/tests/" />
+  <Folder Name="/tests/CourierPlatform.IntegrationTests/">
+    <Project Path="tests/CourierPlatform.IntegrationTests/CourierPlatform.Api.IntegrationTests.csproj" />
+  </Folder>
+</Solution>
