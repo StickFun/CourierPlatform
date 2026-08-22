@@ -3,7 +3,7 @@
     <Project Path="src/CourierPlatform.Api/CourierPlatform.Api.csproj" />
   </Folder>
   <Folder Name="/tests/" />
-  <Folder Name="/tests/CourierPlatform.IntegrationTests/">
-    <Project Path="tests/CourierPlatform.IntegrationTests/CourierPlatform.Api.IntegrationTests.csproj" />
+  <Folder Name="/tests/CourierPlatform.Api.IntegrationTests/">
+    <Project Path="tests/CourierPlatform.Api.IntegrationTests/CourierPlatform.Api.IntegrationTests.csproj" />
   </Folder>
 </Solution>
