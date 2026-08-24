@@ -1,4 +1,4 @@
-using CourierPlatform.Api.Infrastructure.Database;
+using CourierPlatform.Api.Infrastructure.Persistence;
 using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
