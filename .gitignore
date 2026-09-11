@@ -483,4 +483,4 @@ $RECYCLE.BIN/
 *.swp
 
 # Local Git worktrees
-/worktrees/
+/.worktrees/
